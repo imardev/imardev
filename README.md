@@ -50,8 +50,8 @@ I am an early-stage frontend developer focused on building **functional, respons
 ### DevOps & Cloud
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/bash.png" alt="Bash" width="48" height="48" style="margin: 4px;" />
-<!-- 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="48" height="48" style="margin: 4px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="48" height="48" style="margin: 4px;" />
+  <!-- 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="48" height="48" style="margin: 4px;" />
   -->
 </p>
