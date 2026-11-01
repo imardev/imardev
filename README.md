@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Hola%20👋%20Soy%20Ismael&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Desarrollador%20Full stack&descSize=18&descAlignY=55&textBg=false"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Hola%20👋%20Soy%20Ismael&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Desarrollador%20Full-stack&descSize=18&descAlignY=55&textBg=false"/>
 
 <h2 align="center">Desarrollador web enfocado en crear productos útiles, modernos y bien estructurados.</h2>
 
