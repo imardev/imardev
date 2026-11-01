@@ -30,7 +30,7 @@ Mi objetivo es seguir creciendo como desarrollador **Full Stack**, creando softw
 <!-- Si renombras el repo a "portfolio", cambia también el enlace -->
 - **[Portfolio](https://github.com/imardev/porfolio)** · Web personal con API REST propia (Express + Prisma + PostgreSQL), validación con Zod, Helmet, rate limiting y CI/CD. En producción en [ismartin.com](https://ismartin.com).
 - **[Full Stack Open](https://github.com/imardev/full-stack-course)** · Ejercicios del curso de la Universidad de Helsinki: React, Node.js, MongoDB, JWT, Vitest y Playwright.
-- 
+  
 ## 🚀 En qué estoy trabajando
 
 - ⚛️ Aplicaciones web modernas con **React**.
