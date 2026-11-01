@@ -5,11 +5,8 @@
 <p align="center">
   <a href="https://ismartin.com">🌐 Portfolio</a>
   &nbsp;•&nbsp;
-  <a href="https://github.com/imardev">💻 GitHub</a>
-  <!-- Cuando lo tengas, añade un contacto directo:
   &nbsp;•&nbsp;
-  <a href="https://www.linkedin.com/in/TU-USUARIO">💼 LinkedIn</a>
-  -->
+  <a href="https://www.linkedin.com/in/ismaelmartinn">💼 LinkedIn</a>
 </p>
 
 ---
@@ -18,11 +15,7 @@
 
 Soy desarrollador web y estudiante de **Desarrollo de Aplicaciones Web (DAW)**.
 
-Trabajo en todo el ciclo de una aplicación: interfaces con **React**, APIs con **Node.js y Express**, bases de datos con **PostgreSQL y Prisma**, y el despliegue en mi propio servidor con **Docker** y **Caddy**.
-
-<!-- ANTES (sustituido porque contradecía el banner "Full-stack"):
-Actualmente estoy centrado en el desarrollo **Front-end con React**, mientras amplío mis conocimientos en desarrollo Back-end, bases de datos y desarrollo de software.
--->
+Trabajo en todo el ciclo de una aplicación: interfaces con **React**, APIs con **Node.js y Express**, bases de datos con **PostgreSQL y Prisma**, y el despliegue en mi propio servidor.
 
 <!-- QUITADO hasta que haya repos públicos en Java y Python que lo respalden:
 Como parte de mi formación, también estoy aprendiendo **Java**, además de seguir trabajando con **JavaScript y Python** para desarrollar diferentes tipos de proyectos.
@@ -37,16 +30,12 @@ Mi objetivo es seguir creciendo como desarrollador **Full Stack**, creando softw
 <!-- Si renombras el repo a "portfolio", cambia también el enlace -->
 - **[Portfolio](https://github.com/imardev/porfolio)** · Web personal con API REST propia (Express + Prisma + PostgreSQL), validación con Zod, Helmet, rate limiting y CI/CD. En producción en [ismartin.com](https://ismartin.com).
 - **[Full Stack Open](https://github.com/imardev/full-stack-course)** · Ejercicios del curso de la Universidad de Helsinki: React, Node.js, MongoDB, JWT, Vitest y Playwright.
-<!-- Añade aquí el bot de WhatsApp cuando lo publiques:
-- **[Nombre del bot](https://github.com/imardev/REPO)** · Bot de WhatsApp que recuerda exámenes y tareas de clase.
--->
-
+- 
 ## 🚀 En qué estoy trabajando
 
 - ⚛️ Aplicaciones web modernas con **React**.
 - 🟢 APIs y Back-end con **Node.js** y **Express**.
 - 🗄️ Bases de datos relacionales y arquitectura de aplicaciones.
-- 🐳 Despliegue y administración de un servidor propio con **Docker**.
 - 🧩 Mejora continua de arquitectura, organización y buenas prácticas.
 <!-- QUITADO hasta tener proyectos públicos que lo demuestren:
 - ☕ Aprendizaje y desarrollo de aplicaciones con **Java**.
@@ -120,7 +109,6 @@ Vuelve a activarlas cuando tengas más actividad.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" alt="Debian" width="48" height="48" />
   <img src="https://img.icons8.com/color/48/bash.png" alt="Bash" width="48" height="48" />
   <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" alt="Cloudflare" width="48" height="48" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="48" height="48" />
 </p>
 
 ### 🔧 Herramientas y entorno
@@ -161,8 +149,7 @@ Vuelve a activarlas cuando tengas más actividad.
   </a>
   -->
 
-  <!-- Añade LinkedIn o email cuando lo tengas:
-  <a href="https://www.linkedin.com/in/TU-USUARIO" target="_blank">
+  <a href="https://www.linkedin.com/in/ismaelmartinn" target="_blank">
     <img
       src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg"
       alt="LinkedIn"
@@ -170,7 +157,7 @@ Vuelve a activarlas cuando tengas más actividad.
       height="40"
     />
   </a>
-  -->
+
 </p>
 
 <p align="center">
